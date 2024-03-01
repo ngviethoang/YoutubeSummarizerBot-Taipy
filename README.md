@@ -16,11 +16,23 @@ It's perfect for getting the gist of lengthy videos before you decide to invest 
 ## Installation
 
 1. Clone the respository
-`git clone https://github.com/ngviethoang/YoutubeSummarizerBot-Taipy.git`
+
+```
+git clone https://github.com/ngviethoang/YoutubeSummarizerBot-Taipy.git
+```
+
 2. Set up virtual env
-`python -m venv venv`
+
+```
+python -m venv venv
+```
+
 3. Install the required Python packages
-`pip install -r requirements.txt`
+
+```
+pip install -r requirements.txt
+```
+
 4. Create OpenAI API key and insert your key in .env file
 
 ```
@@ -28,7 +40,10 @@ OPENAI_API_KEY=
 ```
 
 5. Run taipy
-`python main.py`
+
+```
+python main.py
+```
 
 ## Demo
 
