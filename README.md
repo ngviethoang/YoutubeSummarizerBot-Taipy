@@ -16,7 +16,7 @@ It's perfect for getting the gist of lengthy videos before you decide to invest 
 ## Installation
 
 1. Clone the respository
-`git clone `
+`git clone https://github.com/ngviethoang/YoutubeSummarizerBot-Taipy.git`
 2. Set up virtual env
 `python -m venv venv`
 3. Install the required Python packages
@@ -31,4 +31,6 @@ OPENAI_API_KEY=
 `python main.py`
 
 ## Demo
+
+https://github.com/ngviethoang/YoutubeSummarizerBot-Taipy/assets/25498258/23ff6e42-6925-49d2-9f26-4be35c05a9a7
 
